@@ -1,0 +1,9 @@
+Pharma Category Performance: Commercial Analytics Summary
+
+Context: This analysis looked at six years of pharmacy sales data. It covered 2014 to 2019. Eight drug categories were included. The goal was to find performance trends. It also aimed to spot commercial priorities. Categories were split into four tiers. The split used total volume and average growth rate. Volume median was about 9,400 units. Growth median was about 3.2%.
+
+Key finding: R06 is the strongest Rising Opportunity. Its base is smaller, around 6,100 units. But it grows at 8.8% a year. That is well above the median. N05B is the clearest Declining Legacy category. It has a large base, about 18,600 units. It is the second highest in the portfolio. Yet it is shrinking. It declines by 5.4% annually. It is the only high volume category trending down. R03 also stands out. It sits in Core Performers. It has strong volume, about 11,600 units. It has the highest growth rate in the portfolio, at 18%.
+
+Recommendation: Focus more promotional effort on R06. Its growth suggests room to scale. Act before the opportunity matures. N05B needs a closer look. Its decline puts a large volume at risk. Find out why it is declining first. Possible causes include competition or formulary changes. Seasonal effects could also play a role. Confirm the cause before keeping current supply levels. R03 is a strong candidate for more investment. It has high volume and high growth. The downside risk looks low.
+
+Caveat: This analysis uses national aggregate data only. It does not include regional detail. It does not include prescriber level detail. It does not include competitor data. Adding these would sharpen the targeting. This analysis also shows direction, not cause. It does not explain why a category grows or declines. Patent status was not checked. Regulatory changes were not checked. New market entrants were not checked.
